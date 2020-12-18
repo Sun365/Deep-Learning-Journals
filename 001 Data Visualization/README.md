@@ -4,7 +4,7 @@
 
 * ***1 散点图的动态显示***
 
-<img src="001 Data Visualization/my.gif" width="50%">
+<img src="https://github.com/Sun365/Deep-Learning-Journals/blob/main/001%20Data%20Visualization/Data/my.gif" width="50%">
 
 * ***2 生成图片的批量命名和保存（包括间隔保存）***
 
