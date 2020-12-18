@@ -24,3 +24,12 @@
 
 * ***4 GIF图片自动生成***
 
+# Requirements
+The code requires only common Python environments for machine learning; Basicially, it was tested with
+* Python 3.7.7(Anaconda 3)
+* Matplotlib 3.2.2
+* numpy 1.19.1
+* pandas 1.1.3
+* imageio 2.9.0
+
+Higher (or lower) versions should also work (perhaps with minor modifications).
