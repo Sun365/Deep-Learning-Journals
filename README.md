@@ -18,5 +18,6 @@ Deep learning, learning diary 深度学习，学习日记
 
 > * [001 Data Visualization/README.md](https://github.com/Sun365/Deep-Learning-Journals/blob/main/001%20Data%20Visualization/README.md)
 
-
+<div align="center">
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif">
+</div>
