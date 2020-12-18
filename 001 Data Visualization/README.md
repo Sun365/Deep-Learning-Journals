@@ -8,7 +8,7 @@
 
 * ***2 生成图片的批量命名和保存（包括间隔保存）***
 
-<img src="https://github.com/Sun365/Deep-Learning-Journals/blob/main/001%20Data%20Visualization/Data/screenshot01.JPG" width="50%">
+<img src="https://github.com/Sun365/Deep-Learning-Journals/blob/main/001%20Data%20Visualization/Data/screenshot01.JPG" width="100%">
 
 * ***3 复杂名称图片的排序***
 
