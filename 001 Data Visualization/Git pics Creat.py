@@ -1,5 +1,4 @@
 import os
-import re
 import imageio
 path=r'C:\Users\suntw\anaconda3\envs\pytorch\learning place\LiaoXF-python\Machine Learning Basics\Data Visualization\Pics'
 
