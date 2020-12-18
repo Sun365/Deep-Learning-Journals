@@ -43,4 +43,4 @@ Higher (or lower) versions should also work (perhaps with minor modifications).
 # Thanks to the reference
 * [Made With ML](https://github.com/madewithml/basics.git)
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif">
