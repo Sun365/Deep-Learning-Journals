@@ -10,8 +10,8 @@ Deep learning, learning diary 深度学习，学习日记
 
 > Visually modify the data handler code 将有趣的代码进行可视化
 
-> <div align="center">
-> <img src="https://github.com/Sun365/Deep-Learning-Journals/blob/main/001%20Data%20Visualization/Data/my.gif" width="150">
+> <div align="left">
+> <img src="https://github.com/Sun365/Deep-Learning-Journals/blob/main/001%20Data%20Visualization/Data/my.gif" width="250">
 > </div>
 
 > * [001 Data Visualization](https://github.com/Sun365/Deep-Learning-Journals/tree/main/001%20Data%20Visualization)
