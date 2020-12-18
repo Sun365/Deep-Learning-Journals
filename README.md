@@ -1,3 +1,5 @@
+:relaxed: Readme <!-- Emoji cheat sheet https://www.webfx.com/tools/emoji-cheat-sheet/ -->
+
 # Deep-Learning-Journals
 ```
 Deep learning, learning diary 深度学习，学习日记
@@ -6,11 +8,15 @@ Deep learning, learning diary 深度学习，学习日记
 
 ## 001 Data Visualization
 
-Visually modify the data handler code 将有趣的代码进行可视化
+> Visually modify the data handler code 将有趣的代码进行可视化
 
-* [001 Data Visualization](https://github.com/Sun365/Deep-Learning-Journals/tree/main/001%20Data%20Visualization)
+> <div align="center">
+> <img src="https://github.com/Sun365/Deep-Learning-Journals/blob/main/001%20Data%20Visualization/Data/my.gif" width="150">
+> </div>
 
-* [001 Data Visualization/README.md](https://github.com/Sun365/Deep-Learning-Journals/blob/main/001%20Data%20Visualization/README.md)
+> * [001 Data Visualization](https://github.com/Sun365/Deep-Learning-Journals/tree/main/001%20Data%20Visualization)
+
+> * [001 Data Visualization/README.md](https://github.com/Sun365/Deep-Learning-Journals/blob/main/001%20Data%20Visualization/README.md)
 
 
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif">
