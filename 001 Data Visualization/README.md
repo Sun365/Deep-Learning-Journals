@@ -25,6 +25,7 @@
 * ***4 GIF图片自动生成***
 
 # Requirements
+
 The code requires only common Python environments for machine learning; Basicially, it was tested with
 * Python 3.7.7(Anaconda 3)
 * Matplotlib 3.2.2
@@ -33,3 +34,11 @@ The code requires only common Python environments for machine learning; Basicial
 * imageio 2.9.0
 
 Higher (or lower) versions should also work (perhaps with minor modifications).
+
+# Dataset
+
+* [tumors.csv](https://raw.githubusercontent.com/madewithml/basics/master/data/tumors.csv)
+* [local](https://github.com/Sun365/Deep-Learning-Journals/blob/main/001%20Data%20Visualization/Data/tumors.csv)
+
+# Thanks to the reference
+* [Made With ML](https://github.com/madewithml/basics.git)
