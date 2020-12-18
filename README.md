@@ -13,4 +13,4 @@ Visually modify the data handler code 将有趣的代码进行可视化
 * [001 Data Visualization/README.md](https://github.com/Sun365/Deep-Learning-Journals/blob/main/001%20Data%20Visualization/README.md)
 
 
-[Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
