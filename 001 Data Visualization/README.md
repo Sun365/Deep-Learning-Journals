@@ -47,3 +47,5 @@ Higher (or lower) versions should also work (perhaps with minor modifications).
 * [Made With ML](https://github.com/madewithml/basics.git)
 
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif">
+
+![Pandao editor.md](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png "Pandao editor.md")
