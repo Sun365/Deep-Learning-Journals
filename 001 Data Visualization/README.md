@@ -12,6 +12,8 @@
 
 * ***3 Sorting of complex name images(复杂名称图片的排序)***
 
+  利用Python List sort()函数方法，对复杂文件进行排序
+  
 <table>
   <tr>
     <td bgcolor=blue>      
