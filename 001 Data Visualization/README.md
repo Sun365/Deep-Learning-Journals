@@ -14,11 +14,15 @@
 
   利用Python List sort()函数方法，对复杂文件进行排序
   
+<font color=#ff2222 size=7 face="黑体">最大号红色字体</font>
+  
 <table>
   <tr>
     <td bgcolor=blue>      
 <table><tr><td bgcolor=red>(Before) 排序前：无序 Out of order :</td></tr></table>
       
+
+
       ['0.jpg', '1.jpg', '10.jpg', '100.jpg', '101.jpg', '102.jpg', '103.jpg', '104.jpg', '105.jpg', '106.jpg', '107.jpg', '108.jpg', '109.jpg', '11.jpg', '110.jpg', '111.jpg', '112.jpg', '113.jpg', '114.jpg', '115.jpg']      
 <table><tr><td bgcolor=red>(After) 排序后：有序 Ordered :</td></tr></table>
 
