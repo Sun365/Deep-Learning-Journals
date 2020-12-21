@@ -14,7 +14,7 @@
 
   利用Python List sort()函数方法，对复杂文件进行排序
   
-<font color=#ff2222 size=7 face="黑体">最大号红色字体</font>
+
   
 <table>
   <tr>
@@ -55,3 +55,7 @@ Higher (or lower) versions should also work (perhaps with minor modifications).
 
 
 ![CAT](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif "CAT")
+
+<div align=center><img width="150" height="150" src="https://github.com/HeTingwei/ReadmeLearn/blob/master/avatar1.jpg"/></div>
+
+<font color=#ff2222 size=7 face="黑体">最大号红色字体</font>
