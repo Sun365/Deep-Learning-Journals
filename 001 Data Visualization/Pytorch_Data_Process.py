@@ -59,6 +59,24 @@ for i in range(len(X)):
 
     plt.pause(0.001) # 闪图，窗口停留时间
 
+# 简洁实现方法
+'''
+plt.ion()
+
+for i in range(len(X)):  
+    plt.cla()
+    plt.scatter(X[:i,0],X[:i,1],c=[colors[_y] for _y in y[:i]],edgecolors='k',s=25)
+    
+    plt.title("Generated non-linear data")
+    plt.xlim(-1,1)
+    plt.ylim(-1,1)
+
+    plt.pause(0.0001)
+
+plt.ioff()
+plt.show()
+'''
+    
     # 取所有图片
     plt.rcParams['savefig.dpi'] = 100 #统一图片像素，不然会导致动图位移
     plt.rcParams['figure.dpi'] = 100 #统一分辨率
